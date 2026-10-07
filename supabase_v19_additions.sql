@@ -1,4 +1,4 @@
--- BE STRONGER V20
+-- BE STRONGER V22
 -- Realtime events + notification center.
 
 create table if not exists public.workout_live_events (

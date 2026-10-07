@@ -1,4 +1,4 @@
--- BE STRONGER V20 — Supabase schema
+-- BE STRONGER V22 — Supabase schema
 -- Run in Supabase SQL Editor.
 create extension if not exists "pgcrypto";
 

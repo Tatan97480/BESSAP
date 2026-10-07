@@ -1,4 +1,4 @@
--- BE STRONGER V20
+-- BE STRONGER V22
 -- Exercise video library + links.
 
 create table if not exists public.exercise_media (

@@ -1,4 +1,4 @@
-// BE STRONGER V20
+// BE STRONGER V22
 // Supabase public client configuration only.
 // Never place service_role or secret Stripe keys here.
 window.BS_CONFIG = {

@@ -1,6 +1,6 @@
-# BE STRONGER V20 — temps réel
+# BE STRONGER V22 — temps réel
 
-V20 ajoute :
+V22 ajoute :
 - flux d’activité live
 - centre de notifications
 - cloche de notifications

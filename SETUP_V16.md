@@ -1,4 +1,4 @@
-# BE STRONGER V20 — passage au vrai onboarding
+# BE STRONGER V22 — passage au vrai onboarding
 
 ## 1. Supabase
 - Créer le projet.

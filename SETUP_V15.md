@@ -1,4 +1,4 @@
-# BE STRONGER V20 — mise en ligne
+# BE STRONGER V22 — mise en ligne
 
 1. Créer un projet Supabase.
 2. Dans SQL Editor, exécuter `supabase_schema.sql`.
@@ -13,7 +13,7 @@
 ## Test hors ligne
 Ouvrir `index.html` et choisir « DÉMO HORS LIGNE ».
 
-## Architecture V20
+## Architecture V22
 Auth -> profiles -> coach_clients -> programs -> program_assignments -> workout_logs
 
 Le contrôle d'accès doit rester côté serveur avec RLS.

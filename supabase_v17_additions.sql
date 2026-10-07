@@ -1,4 +1,4 @@
--- BE STRONGER V20
+-- BE STRONGER V22
 -- Programme builder / exercise library / session logs.
 create table if not exists public.exercises (
   id uuid primary key default gen_random_uuid(),

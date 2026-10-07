@@ -1,6 +1,6 @@
-# BE STRONGER V20 — Vidéos
+# BE STRONGER V22 — Vidéos
 
-V20 ajoute une vraie bibliothèque vidéo d'exercices.
+V22 ajoute une vraie bibliothèque vidéo d'exercices.
 
 ## Fonctionnalités
 - bibliothèque coach

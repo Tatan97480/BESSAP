@@ -1,4 +1,4 @@
--- BE STRONGER V20 — onboarding sécurisé
+-- BE STRONGER V22 — onboarding sécurisé
 -- À exécuter après supabase_schema.sql.
 create or replace function public.accept_coach_invite(p_code text, p_client_id uuid)
 returns jsonb

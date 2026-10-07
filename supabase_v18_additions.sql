@@ -1,4 +1,4 @@
--- BE STRONGER V20
+-- BE STRONGER V22
 -- Live workout execution, metrics and notifications.
 
 create table if not exists public.session_logs (

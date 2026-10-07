@@ -1,6 +1,6 @@
-# BE STRONGER V20
+# BE STRONGER V22
 
-V20 ajoute le mode **Séance Live** et un vrai socle de suivi de performance.
+V22 ajoute le mode **Séance Live** et un vrai socle de suivi de performance.
 
 ## Nouveautés
 - Séance guidée en temps réel
@@ -14,7 +14,7 @@ V20 ajoute le mode **Séance Live** et un vrai socle de suivi de performance.
 - fonction serveur de suggestion de progression
 
 ## Installation
-1. V15 puis V16 puis V20 restent nécessaires si tu pars d'un projet neuf.
+1. V15 puis V16 puis V22 restent nécessaires si tu pars d'un projet neuf.
 2. Exécuter `supabase_v18_additions.sql`.
 3. Renseigner `config.js`.
 4. Publier.
